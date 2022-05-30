@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Front-end developer, eager to learn and thrive.</h3>
 
 <h4>About me </h4>
-<img style='margin: 1rem' width="300px" height="200px" src="https://github.com/pawelkom88/pawelkom88/blob/main/profile.png" alt='Pawel profile photo' />
+<img style='margin: 1rem' width="300px" height="400px" src="https://github.com/pawelkom88/pawelkom88/blob/main/profile.png" alt='Pawel profile photo' />
 <br />
 <p>I am an easy-going bloke with passion for web-development. I consider myself a ‘forever student’ willing to absorb everything realated to this field. If I do not code, I read about coding. If I do not read about coding, I watch courses on Front-end Masters 😝. I wish there were 48 hours in a day so could develop my passion to the guitar and sport even further.</p>
 
