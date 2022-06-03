@@ -8,7 +8,7 @@
 
 <h4>What am I up to ?</h4>
 
-- 🔭 I’m currently working on **<a href="link-in-progress">Outletity</a>**
+- 🔭 I’m currently working on **<a href=https://github.com/pawelkom88/array-method-finder">Array method finder</a>**
 
 - 🌱 I’m currently learning **React**
 
