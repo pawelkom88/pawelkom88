@@ -8,7 +8,7 @@
 
 <h4>What am I up to ?</h4>
 
-- 🔭 I’m currently working on **<a href="https://github.com/pawelkom88/array-method-finder">Array method finder</a>**
+- 🔭 I’m currently working on **<a href="https://github.com/pawelkom88/">Outletity</a>**
 
 - 🌱 I’m currently learning **React**
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **anything :)**
 
-- 📫 How to reach me **pawel.komorkiewicz@yahoo.co.uk**
+- 📫 How to reach me <a href="mailto:pawel.komorkiewicz@yahoo.co.uk">**pawel.komorkiewicz@yahoo.co.uk**</a>
 
 - 📄 Know about my experiences: <a href="link-in-progress">resume</a>
 
