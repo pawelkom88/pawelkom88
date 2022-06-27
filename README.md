@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Front-end developer, eager to learn and thrive.</h3>
 
 <h4>About me </h4>
-<p>I am an easy-going bloke with a passion for web-development. I consider myself a ‘forever student’ willing to absorb everything related to this field. If I do not code, I read about coding. If I do not read about coding, I watch courses on Front-end Masters 😝. I wish there were 48 hours in a day so I could develop my passion for the guitar and sport even further.</p>
+<p>I am an easy-going bloke with a passion for web-development. I never stop learning and try to absorb everything related to this field. If I do not code, I read about coding. If I do not read about coding, I watch courses on Front-end Masters 😝. I wish there were 48 hours in a day so I could develop my passion for the guitar and sport even further.</p>
 
 <p>I am currently looking for a job in tech as a web-developer. I believe that the hunger for knowledge and determination will lead to success.</p>
 
