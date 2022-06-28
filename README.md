@@ -18,7 +18,7 @@
 
 - 📫 How to reach me <a href="mailto:pawel.komorkiewicz@yahoo.co.uk">**pawel.komorkiewicz@yahoo.co.uk**</a>
 
-- 📄 Know about my experiences: <a href="link-in-progress">resume</a>
+- 📄 Know about my experiences: <a href="https://github.com/pawelkom88/pawelkom88/blob/main/Resume-github.pdf">resume</a>
 
 <h4>Goals</h4>
 <ul>
