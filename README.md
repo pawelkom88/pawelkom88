@@ -27,13 +27,12 @@
 <li>Master my understanding of JavaScript</li>
 <li>Get a good grip on React</li>
 <li>Contribute to open source project</li>
-<li>Learn my daughter code in <a href='https://scratch.mit.edu/'>Scratch</a></li>
+<li>Learn my daughter code in <a href='https://scratch.mit.edu/' target="blank">Scratch</a></li>
 </ul>
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="www.linkedin.com/in/pawel-komorkiewicz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="username" height="20" width="30" /></a>
-</p>
+<h4 align="left">
+  <a href="https://linkedin.com/in/pawel-komorkiewicz" target="blank">Connect with me</a>
+</h4>
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
