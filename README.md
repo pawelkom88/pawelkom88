@@ -8,7 +8,7 @@
 
 <h4>What am I up to ?</h4>
 
-- 🔭 I’m currently working on **<a href="https://github.com/pawelkom88/">Outletity</a>**
+- 🔭 I’m currently working on **<a href="https://outletity-store.netlify.app/">Outletity</a>**
 
 - 🌱 I’m currently learning **React**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me <a href="mailto:pawel.komorkiewicz@yahoo.co.uk">**pawel.komorkiewicz@yahoo.co.uk**</a>
 
-- 📄 Know about my experiences: <a href="https://github.com/pawelkom88/pawelkom88/blob/main/Resume-github.pdf">resume</a>
+- 📄 Know about my experiences: <a href="https://github.com/pawelkom88/pawelkom88/blob/main/Pawel%20Komorkiewicz%20-%20resume.pdf">resume</a>
 
 <h4>Goals</h4>
 <ul>
