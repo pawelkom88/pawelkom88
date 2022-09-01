@@ -20,6 +20,8 @@
 
 - 📄 Know about my experiences: <a href="https://github.com/pawelkom88/pawelkom88/blob/main/Pawel%20Komorkiewicz%20-%20resume.pdf">resume</a>
 
+- My portfolio website: <a href="https://myportfolioweb-site.netlify.app/">link</a>
+
 <h4>Goals</h4>
 <ul>
 <li>Find a job</li>
