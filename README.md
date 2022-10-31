@@ -18,7 +18,7 @@
 
 - 📫 How to reach me <a href="mailto:pawel.komorkiewicz@yahoo.co.uk">**pawel.komorkiewicz@yahoo.co.uk**</a>
 
-- 📄 Know about my experiences: <a href="https://github.com/pawelkom88/pawelkom88/blob/main/Pawel%20Komorkiewicz%20-%20resume.pdf">resume</a>
+- 📄 Know about my experiences: <a href="https://github.com/pawelkom88/pawelkom88/blob/main/Resume.pdf">resume</a>
 
 - :metal: My portfolio website: <a href="https://myportfolioweb-site.netlify.app/">myportfolioweb.site</a>
 
