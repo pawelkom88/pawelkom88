@@ -8,9 +8,9 @@
 
 <h4>What am I up to ?</h4>
 
-- 🔭 I’m currently working on **<a href="https://outletity-store.netlify.app/">Outletity</a>**
+- 🔭 I’m currently working on **<a href="https://photography-website-joe-doe.netlify.app/">Photography website</a>**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/pawelkom88">my github page</a>
 
