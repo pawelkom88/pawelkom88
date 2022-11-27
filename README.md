@@ -8,7 +8,7 @@
 
 <h4>What am I up to ?</h4>
 
-- 🔭 I’m currently working on **<a href="https://photography-website-joe-doe.netlify.app/">Photography website</a>**
+- 🔭 I’m currently working on **<a href="https://go-greeen.netlify.app/">GO GREEN APP</a>**
 
 - 🌱 I’m currently learning **Next.js**
 
